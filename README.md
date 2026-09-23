@@ -4,6 +4,8 @@ This repository contains official signed Android releases of Clubhouse Studio fo
 
 ## Install or update
 
+The current post-tournament update is [Clubhouse Studio v1.3.5, build 9](https://github.com/Bakhombisile02/Clubhouse-Studio-Releases/releases/tag/v1.3.5). It removes the Winter Tournament Week sport-picker section and clears all previously saved RTMP destinations once. Save any still-needed access details in your approved secure records before updating. Read the [release notes](notes/v1.3.5.md), including the no-device-testing limitation.
+
 1. Open the latest entry under **Releases**.
 2. Download the file named `CLUBHOUSE-vX.Y.Z.apk`.
 3. Compare its SHA-256 checksum with the published `SHA256SUMS.txt` file.
