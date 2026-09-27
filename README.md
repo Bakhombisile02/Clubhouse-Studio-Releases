@@ -4,7 +4,7 @@ This repository contains official signed Android releases of Clubhouse Studio fo
 
 ## Install or update
 
-The current post-tournament update is [Clubhouse Studio v1.3.5, build 9](https://github.com/Bakhombisile02/Clubhouse-Studio-Releases/releases/tag/v1.3.5). It removes the Winter Tournament Week sport-picker section and clears all previously saved RTMP destinations once. Save any still-needed access details in your approved secure records before updating. Read the [release notes](notes/v1.3.5.md), including the no-device-testing limitation.
+The current update is [Clubhouse Studio v1.3.6, build 10](https://github.com/Bakhombisile02/Clubhouse-Studio-Releases/releases/tag/v1.3.6). It automatically adds NZSS CET Court 1, Court 7, and Court 8 to Saved RTMP Codes. Destinations added in v1.3.5 remain saved. Read the [release notes](notes/v1.3.6.md), especially the existing destination-retirement warning for upgrades from v1.3.4 or earlier.
 
 1. Open the latest entry under **Releases**.
 2. Download the file named `CLUBHOUSE-vX.Y.Z.apk`.
@@ -15,7 +15,7 @@ Android accepts an in-place update only when the new APK is signed by the same t
 
 ## Access and support
 
-The APK is publicly downloadable, but it is not licensed for public operation, modification, redistribution, reverse engineering, or reuse. Event access details, destinations, and credentials are supplied separately to authorized operators.
+The APK is publicly downloadable, but it is not licensed for public operation, modification, redistribution, reverse engineering, or reuse. Some releases include approved event destinations. Confirm permission and current event details with the event lead. Credentials bundled in an APK can be extracted by anyone who downloads it.
 
 Report problems through the private Clubhouse Studio source repository or to the event lead. Public issues and discussions are intentionally disabled here.
 
